@@ -221,7 +221,7 @@ def update_state(state_id=None):
             type: string
             description: The date the object was updated
 
-    responses
+    responses:
       201:
         description: A list of a single dictionary of a State
     """
